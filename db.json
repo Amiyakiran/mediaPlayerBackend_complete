@@ -1,0 +1,248 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Kurchi Madathapetti Full Video Song",
+      "imageUrl": "https://i.ytimg.com/vi/gh3FyLT7WVg/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/gh3FyLT7WVg"
+    },
+    {
+      "id": "2",
+      "caption": "King of Kotha",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzI3ZGEzM2EtNmU3ZC00YTE2LTg4ZDctMjcxNjliOTBlYjkyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg",
+      "embedLink": "https://www.youtube.com/embed/VzT2xurZrbI"
+    },
+    {
+      "id": "3",
+      "caption": "Leo",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTAzYzVlYmItMWI1Yi00ZGRjLTkwYWUtYWM3ZDIwOGFiODk4XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg",
+      "embedLink": "https://www.youtube.com/embed/3wDiqlTNlfQ"
+    },
+    {
+      "id": "4",
+      "caption": "Neela Nilave",
+      "imageUrl": "https://timesofindia.indiatimes.com/photo/msid-103197447/103197447.jpg?resizemode=4",
+      "embedLink": "https://www.youtube.com/embed/nYEoxne_20Y"
+    },
+    {
+      "id": "5",
+      "caption": "Premalu ",
+      "imageUrl": "https://assets-in.bmscdn.com/discovery-catalog/events/et00379479-tsbbbxlhvu-landscape.jpg",
+      "embedLink": "https://www.youtube.com/embed/9_xMvx-vnJ0"
+    },
+    {
+      "id": "6",
+      "caption": "Jawan",
+      "imageUrl": "https://i.ytimg.com/vi/F_jU1KI82kw/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/VAdGW7QDJiU"
+    },
+    {
+      "id": "7",
+      "caption": "Kesariya ",
+      "imageUrl": "https://cdn.siasat.com/wp-content/uploads/2022/07/New-Project-73.jpg",
+      "embedLink": "https://www.youtube.com/embed/g6fnFALEseI"
+    },
+    {
+      "id": "8",
+      "caption": "ANIMAL:Pehle Bhi Main",
+      "imageUrl": "https://i.ytimg.com/vi/iAIBF2ngbWY/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/iAIBF2ngbWY"
+    }
+  ],
+  "history": [
+    {
+      "caption": "LEO",
+      "url": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "timeStamp": "13/03/2024, 12:26:04",
+      "id": 1
+    },
+    {
+      "caption": "Kurchi Madathapetti Full Video Song",
+      "url": "https://www.youtube.com/embed/gh3FyLT7WVg",
+      "timeStamp": "15/03/2024, 11:58:10",
+      "id": 2
+    },
+    {
+      "caption": "King of Kotha",
+      "url": "https://www.youtube.com/embed/VzT2xurZrbI",
+      "timeStamp": "15/03/2024, 12:27:07",
+      "id": 3
+    },
+    {
+      "caption": "King of Kotha",
+      "url": "https://www.youtube.com/embed/VzT2xurZrbI",
+      "timeStamp": "15/03/2024, 12:27:10",
+      "id": 4
+    },
+    {
+      "caption": "King of Kotha",
+      "url": "https://www.youtube.com/embed/VzT2xurZrbI",
+      "timeStamp": "15/03/2024, 12:28:03",
+      "id": 5
+    },
+    {
+      "caption": "King of Kotha",
+      "url": "https://www.youtube.com/embed/VzT2xurZrbI",
+      "timeStamp": "15/03/2024, 12:28:11",
+      "id": 6
+    },
+    {
+      "caption": "Neela Nilave",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "timeStamp": "16/03/2024, 12:05:32",
+      "id": 7
+    },
+    {
+      "caption": "ANIMAL:Pehle Bhi Main",
+      "url": "https://www.youtube.com/embed/iAIBF2ngbWY",
+      "timeStamp": "16/03/2024, 12:05:37",
+      "id": 8
+    },
+    {
+      "caption": "Kesariya ",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "timeStamp": "16/03/2024, 12:05:41",
+      "id": 9
+    },
+    {
+      "caption": "JAWAN",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "timeStamp": "16/03/2024, 12:05:44",
+      "id": 10
+    },
+    {
+      "caption": "Kesariya ",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "timeStamp": "16/03/2024, 12:05:48",
+      "id": 11
+    },
+    {
+      "caption": "Kesariya ",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "timeStamp": "16/03/2024, 12:08:29",
+      "id": 12
+    },
+    {
+      "caption": "ANIMAL:Pehle Bhi Main",
+      "url": "https://www.youtube.com/embed/iAIBF2ngbWY",
+      "timeStamp": "16/03/2024, 12:08:33",
+      "id": 13
+    },
+    {
+      "caption": "JAWAN",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "timeStamp": "16/03/2024, 12:08:37",
+      "id": 14
+    },
+    {
+      "caption": "Neela Nilave",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "timeStamp": "16/03/2024, 12:08:42",
+      "id": 15
+    },
+    {
+      "caption": "LEO",
+      "url": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "timeStamp": "16/03/2024, 12:08:45",
+      "id": 16
+    },
+    {
+      "caption": "King of Kotha",
+      "url": "https://www.youtube.com/embed/VzT2xurZrbI",
+      "timeStamp": "16/03/2024, 12:08:48",
+      "id": 17
+    },
+    {
+      "caption": "Kurchi Madathapetti Full Video Song",
+      "url": "https://www.youtube.com/embed/gh3FyLT7WVg",
+      "timeStamp": "16/03/2024, 12:08:54",
+      "id": 18
+    },
+    {
+      "caption": "Premalu ",
+      "url": "https://www.youtube.com/embed/9_xMvx-vnJ0",
+      "timeStamp": "16/03/2024, 12:08:57",
+      "id": 19
+    },
+    {
+      "caption": "Neela Nilave",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "timeStamp": "16/03/2024, 12:09:02",
+      "id": 20
+    },
+    {
+      "caption": "Kesariya ",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "timeStamp": "16/03/2024, 12:09:10",
+      "id": 21
+    },
+    {
+      "caption": "Kesariya ",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "timeStamp": "16/03/2024, 12:10:39",
+      "id": 22
+    },
+    {
+      "caption": "Kesariya ",
+      "url": "https://www.youtube.com/embed/g6fnFALEseI",
+      "timeStamp": "16/03/2024, 12:10:46",
+      "id": 23
+    },
+    {
+      "caption": "JAWAN",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "timeStamp": "16/03/2024, 12:10:54",
+      "id": 24
+    },
+    {
+      "caption": "ANIMAL:Pehle Bhi Main",
+      "url": "https://www.youtube.com/embed/iAIBF2ngbWY",
+      "timeStamp": "16/03/2024, 12:16:21",
+      "id": 25
+    },
+    {
+      "caption": "Leo",
+      "url": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "timeStamp": "16/03/2024, 12:21:46",
+      "id": 26
+    }
+  ],
+  "category": [
+    {
+      "category": "Hindi Songs",
+      "allVideos": [
+        {
+          "id": "8",
+          "caption": "ANIMAL:Pehle Bhi Main",
+          "imageUrl": "https://i.ytimg.com/vi/iAIBF2ngbWY/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/iAIBF2ngbWY"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "category": "malayalam",
+      "allVideos": [
+        {
+          "id": "4",
+          "caption": "Neela Nilave",
+          "imageUrl": "https://timesofindia.indiatimes.com/photo/msid-103197447/103197447.jpg?resizemode=4",
+          "embedLink": "https://www.youtube.com/embed/nYEoxne_20Y"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "category": "tamil",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "LEO",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTAzYzVlYmItMWI1Yi00ZGRjLTkwYWUtYWM3ZDIwOGFiODk4XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg",
+          "embedLink": "https://www.youtube.com/embed/3wDiqlTNlfQ"
+        }
+      ],
+      "id": 4
+    }
+  ]
+}
